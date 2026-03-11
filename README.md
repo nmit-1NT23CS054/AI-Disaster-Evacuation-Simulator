@@ -51,3 +51,7 @@ This type of simulation can be useful for:
 - Crowd management studies  
 - Safety analysis of building layouts  
 - Disaster preparedness research  
+
+## Simulation Demo
+
+The simulation video in this repository: simulation_demo.mp4
