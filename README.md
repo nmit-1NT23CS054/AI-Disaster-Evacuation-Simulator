@@ -54,4 +54,4 @@ This type of simulation can be useful for:
 
 ## Simulation Demo
 
-The simulation video in this repository: simulation_demo.mp4
+The simulation video in this repository : simulation_demo.mp4
